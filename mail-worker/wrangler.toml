@@ -32,7 +32,7 @@ crons = ["0 * * * *"]
 
 [vars]
 domain = ["know-howflow.com"]
-admin = "admin@know-howflow.com"
+admin = "CY01@know-howflow.com"
 # Store jwt_secret as a Cloudflare runtime secret, never in this repository.
 
 [build]
